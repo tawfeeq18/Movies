@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+.a{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
+.b{
+    font-style: italic;
+    color: blue;
+}
+.c{
+    font-style: oblique;
+    color: blueviolet;
+}
+.d{
+    font-style: inherit;
+    color:darkviolet;
+}
+#a{
+    font-style: unset;
+    color: crimson;
+}
